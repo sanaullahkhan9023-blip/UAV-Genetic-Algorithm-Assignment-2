@@ -1,0 +1,2 @@
+GA: fitness=0.04769; coverage=0.5754; detection=0.4278; energy=255.8869; time=156.0263; risk=29.4898; distance=198.1420; violations=0.0000; objective=0.0477
+Random search: fitness=-0.12675; coverage=0.3007; detection=0.2061; energy=274.1832; time=168.1537; risk=50.2228; distance=225.3385; violations=0.0000; objective=-0.1268
